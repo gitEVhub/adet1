@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51182872692",
+    "project_id": "adet-faa",
+    "storage_bucket": "adet-faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51182872692:android:d8e9e6cd0a728b9e9cc921",
+        "android_client_info": {
+          "package_name": "com.orientrade.adet_faa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51182872692-sb64k064pghth287oklglpogc91pfk2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUt7ptIyBMHxzm6X11VxJuFbzlXP8FZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51182872692-sb64k064pghth287oklglpogc91pfk2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
